@@ -1,1 +1,0 @@
-// Data base object model
